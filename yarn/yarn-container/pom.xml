@@ -8,8 +8,8 @@
 		<artifactId>yarn</artifactId>
 		<version>1.0.0</version>
 	</parent>
-	<artifactId>yarn-client</artifactId>
-	<name>yarn-client</name>
+	<artifactId>yarn-container</artifactId>
+	<name>yarn-container</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

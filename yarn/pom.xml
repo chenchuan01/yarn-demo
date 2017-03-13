@@ -66,5 +66,7 @@
 	<modules>
 		<module>yarn-master</module>
 		<module>yarn-client</module>
+		<module>yarn-container</module>
+		<module>yarn-dist</module>
 	</modules>
 </project>
